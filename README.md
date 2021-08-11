@@ -1,6 +1,6 @@
 # Interview Preparation
 
-![InterviewPreparation](assets/interview.jpg)
+![InterviewPreparation](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Job_interview.jpg/220px-Job_interview.jpg)
 
 Interviews for internships or junior jobs usually consist of several steps: Thiy will usually start with a phone or email conversation, and then through the following rounds, though not necessarily in this order:
 
@@ -17,7 +17,7 @@ In this repo we will go through the different types of interviews and offer you 
 
 Prepare well and go get hired!
 
-***Pro Tip: Build confidence through [Mr. Simon's mock interview](https://mrsimon.ai/) with common questions from real job interviews!***
+
 
 ## Resources linked in this repo
 - [Top 10 Job Interview Questions and Best Answers](https://www.thebalancecareers.com/top-interview-questions-and-best-answers-2061225)
